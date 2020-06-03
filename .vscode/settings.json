@@ -1,0 +1,4 @@
+{
+    "restructuredtext.confPath": "${workspaceFolder}\\venv\\Lib\\site-packages\\django\\urls",
+    "restructuredtext.linter.disabled": true
+}
