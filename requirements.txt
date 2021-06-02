@@ -47,7 +47,7 @@ sphinxcontrib-seqdiag==2.0.0
 sphinxcontrib-serializinghtml==1.1.4
 sqlparse==0.3.1
 tornado==6.0.4
-urllib3==1.25.9
+urllib3==1.26.5
 watchdog==0.10.2
 webcolors==1.11.1
 Werkzeug==1.0.1
